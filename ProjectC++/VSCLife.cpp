@@ -5,5 +5,6 @@ int main(){
     //Установка ввода и вывода консоли в стандартную Российскую кодировку
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
+    cout<<"Hello world!";
     return 0;
 }
